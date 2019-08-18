@@ -1,0 +1,32 @@
+PODS:
+  - EVGPUImage2 (0.2.0)
+  - GPUImage (0.1.7)
+  - PassportScanner (4.6.0):
+    - EVGPUImage2
+    - GPUImage
+    - TesseractOCRSDKiOS
+    - UIImage-Resize
+  - TesseractOCRSDKiOS (4.0.2)
+  - UIImage-Resize (1.0.1)
+
+DEPENDENCIES:
+  - PassportScanner
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EVGPUImage2
+    - GPUImage
+    - PassportScanner
+    - TesseractOCRSDKiOS
+    - UIImage-Resize
+
+SPEC CHECKSUMS:
+  EVGPUImage2: 1e057f25fbab811b8a9e98d19f96bbd5eb434913
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  PassportScanner: 8813c0bab140491861ef22ef218b38e326d38561
+  TesseractOCRSDKiOS: 5124816fe04de75f4d7ce91eb8b2bb5096aa6519
+  UIImage-Resize: fa776860f10e6900bbaf53a73e494bdceaaccc77
+
+PODFILE CHECKSUM: 9a82359c0461559b02c085b3a67945e1a74709e5
+
+COCOAPODS: 1.7.4
